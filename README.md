@@ -10,3 +10,8 @@ add - adiciona alterações no repositório local
 commit - salva alterações no repositório local
 
 push - envia alterações para o repositório remoto
+
+_____________________________________________________________________
+
+git config --global user.name  _____________
+git config --global user.email  ____________
