@@ -2,7 +2,6 @@
 Repositório da Disciplina de Programação Web - 4 Semestre
 
 
-
 ### comandos git
 clone - clona repositório remoto na máquina local / pull - atualiza repositório local
 
