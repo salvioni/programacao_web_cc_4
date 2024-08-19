@@ -1,13 +1,20 @@
 
 #titulo {
-    color: rgb(10, 85, 43);
+    color: rgb(236, 139, 11);
     text-align: center;
 }
 
 .entradas-formulario {
+    text-align: center;
     border: 1px solid;
+    border-color: rgb(228, 123, 24);
 }
 
 .rodape {
+    
     border: 1px solid;
+}
+
+body{
+    background-color: black;
 }
